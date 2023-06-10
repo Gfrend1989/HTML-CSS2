@@ -1,0 +1,57 @@
+
+body {
+    background: gray;
+}
+
+h1 {
+    color: black;;
+    font-family: cursive;
+    font-size: 80px
+}
+
+img {
+    width: 500px;
+    height: auto;
+}
+
+b {
+    color: white;
+}
+
+a {
+    color: green;
+    font-style: italic;
+    font-size: xx-large;
+    font-family: fantasy
+}
+
+.color-white {
+    color: white;
+}
+
+input {
+    background: wheat;
+    font-family: fantasy;
+    font-size: 15px;
+}
+
+option {
+    font-family: fantasy;
+    font-size: 15px;
+}
+
+select {
+    font-size: 20px
+}
+
+button {
+    font-family: fantasy;
+    font-style: revert;
+    font-size: 15px
+}
+
+.style_red {
+    color: black;
+    background: green;
+    font-size: larger;
+}
